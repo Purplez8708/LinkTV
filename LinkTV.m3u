@@ -390,7 +390,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd?channel=cn
 
-#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="KIDS TV",212 Disney
+#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" group-title="KIDS TV",212 Disney
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -424,7 +424,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="RTMK05" ch-number=" " tvg-name="BERITA RTM" group-title=" NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RTM.png/330px-RTM.png",Berita RTM
+#EXTINF:-1 tvg-id="RTMK05" ch-number=" " tvg-name="BERITA RTM" group-title=" NEWS" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
