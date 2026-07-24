@@ -348,56 +348,57 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 
 
 
-#=====kids=========
+#=====KIDS TV=========
 
 
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=330" group-title="KIDS",Animax HD
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=330" group-title="KIDS TV",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Animax&kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
+http://www.kaniptv.cn/uadl.php?etoken=vol%2BYKMS8Nv3Et6s3sOhVUeMxPx39RA01cQqQdQ5zNF1MIhGmfAxg5uVpFCT4R2Gh9%2FXEpImp4Q1%2Fl1Yr3BKS6buTrZZ%2BjjqtD2KPOy6%2BguI9GS3qehTNCdnhS6Mx1x%2Flrw5eNbp766Du9INnzcs%2FDhvei8YmFPSeVcKuKfj5aVcumtUb2mGIgZYl88%2F2TJr2EnJGJP9U2JAW96fpZ7te0Tj%2FdeJZIxUTbLFK6bWCjS9Q9zVufCi%2FIiay6WGNQzBzdms1omlMueOqk%2B7zvdLedfNcMCI8ADz2xjd7ueAGlXinXSoMVZsxsMhbJKtXf%2Bc
 
-#EXTINF:-1 tvg-id="AniPlus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS",AniPlus
+#EXTINF:-1 tvg-id="AniPlus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS TV",AniPlus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
 
-#EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS" tvg-id="555.unifi" ch-number="555" tvg-logo="https://ptv2026.com/logo/dreamworks2.png" group-logo="", 206 Dreamworks
+#EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://ptv2026.com/logo/dreamworks2.png" group-logo="", 206 Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dreamworks&kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
+http://192.129.140.23:19890/trams/2785/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://ptv2026.com/logo/moonbug.png" ,207 Moonbug
+#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS TV" tvg-logo="https://ptv2026.com/logo/moonbug.png" ,207 Moonbug
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="616.astro" tvg-logo="https://ptv2026.com/logo/nickelodeon.png" group-logo="" , 208 Nickelodeon
+#EXTINF:-1 group-logo="" group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://ptv2026.com/logo/nickelodeon.png" group-logo="" , 208 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="617.astro" tvg-logo="https://ptv2026.com/logo/nickjr.png" group-logo="", 209 Nick Junior
+#EXTINF:-1 group-logo="" group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://ptv2026.com/logo/nickjr.png" group-logo="", 209 Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS" tvg-logo="https://ptv2026.com/logo/cn.png" group-logo="",211 Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS TV" tvg-logo="https://ptv2026.com/logo/cn.png" group-logo="",211 Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd?channel=cn
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="620.astro" tvg-logo="https://ptv2026.com/logo/cbeebies.png", 212 CBeebies   
+#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="KIDS TV",212 Disney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd?channel=cbeebies
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="620.astro" tvg-logo="https://ptv2026.com/logo/blippi.png", 213 Blippi and Friends   
+
+#EXTINF:-1 group-logo="" group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://ptv2026.com/logo/blippi.png", 213 Blippi and Friends   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
