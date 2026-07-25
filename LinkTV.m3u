@@ -432,7 +432,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="NEWS" tvg-logo="https://logos.fandom.com/wiki/File:DW_News_Germany.png",521 DW English
+#EXTINF:-1 tvg-id="DW" tvg-name="521 ABC Aus" group-title="NEWS" tvg-logo="https://ptv2026.com/logo/abcaustralia.png",521 ABC Aus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -460,44 +460,35 @@ https://www.dropbox.com/scl/fi/uvhycy9xs46besafb8nqp/pendekar-bujang-lapok.mp4?r
 #EXTINF:-1 tvg-id="" tvg-name="Seniman Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/qhyc9kdv/seniman-bujang-lapok-malaysian-movie-poster-md.jpg?v=1481247386" group-title="▶ VOD Pramlee",Seniman Bujang Lapok
 https://www.dropbox.com/scl/fi/ec4a9mxznbxzc3weatex3/seniman-bujang-lapok.mp4?rlkey=huurj29fx01rbbcevn14jewyf&st=yyqduegc&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Bujang Lapok" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Ali Baba Bujang Lapok
+#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/pcgtqgun/ali-baba-bujang-lapok-malaysian-movie-poster-md.jpg?v=1456829492" group-title="▶ VOD Pramlee",Ali Baba Bujang Lapok
 https://www.dropbox.com/scl/fi/gregn402506whq6bzql09/ali-baba-bujang-lapok.mp4?rlkey=phoggjkvylpknzvy3bo8bz4vl&st=37rne1n3&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Anak Bapak" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Anak Bapak
-https://www.dropbox.com/scl/fi/s4a6efz9w95ensmkugk0n/anak-bapak.mkv?rlkey=e42vvjip202nrtzoh8hp8it9z&st=6a2no0s2&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="Keluarga 69" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Keluarga 69
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga 69" tvg-logo="https://cdn.cinematerial.com/p/297x/l8jckpqs/keluarga-69-singaporean-movie-poster-md.jpg?v=1481180547" group-title="▶ VOD Pramlee",Keluarga 69
 https://www.dropbox.com/scl/fi/vzshi2cwksty5tnjnrwxl/keluarga-69.mp4?rlkey=viseq1fxqn5qd3rldidpohljd&st=t8s3ztg1&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Tiga Abdul" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Tiga Abdul
+#EXTINF:-1 tvg-id="" tvg-name="Tiga Abdul" tvg-logo="https://cdn.cinematerial.com/p/297x/tm6x3lz6/tiga-abdul-singaporean-movie-poster-md.jpg?v=1481180242" group-title="▶ VOD Pramlee",Tiga Abdul
 https://www.dropbox.com/scl/fi/phqdec2sh4xfo2pkow3yd/Tiga-Abdul-1964-1080p.mp4?rlkey=anar0zdwwzo307zyes4s81xbm&st=ew7dcrbb&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Ibu Mertuaku" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Ibu Mertuaku
-https://www.dropbox.com/scl/fi/yeiy8dd74gk4sia27ylaj/Kande76_Ibu.Mertuaku.1962.720p.HDTV-CAP.mp4?rlkey=9jgbtio1s2a69e831z0zpjt4v&st=2uooqvli&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="Nasib Do Re Mi" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Nasib Do Re Mi
+#EXTINF:-1 tvg-id="" tvg-name="Nasib Do Re Mi" tvg-logo="https://cdn.cinematerial.com/p/297x/q6p3zdea/labu-dan-labi-malaysian-movie-poster-md.jpg?v=1481180700" group-title="▶ VOD Pramlee",Nasib Do Re Mi
 https://www.dropbox.com/scl/fi/1y55kxrzqx8n8i0akzz0y/Nasib-Do-Re-Mi.mp4?rlkey=whib4ivqydqflbqqmckvq4ja5&st=28toyfsl&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Laksamana Do Re Mi" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Laksamana Do Re Mi
+#EXTINF:-1 tvg-id="" tvg-name="Laksamana Do Re Mi" tvg-logo="https://cdn.cinematerial.com/p/297x/q6p3zdea/labu-dan-labi-malaysian-movie-poster-md.jpg?v=1481180700" group-title="▶ VOD Pramlee",Laksamana Do Re Mi
 https://www.dropbox.com/scl/fi/bp0p7ffwy0tt2cjnpfbpo/Laksamana-Do-Re-Mi.mp4?rlkey=kk6hqnixcooq16u1p5ck6xdil&st=vdv03wpu&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Nasib Si Labu Labi" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Nasib Si Labu Labi
+#EXTINF:-1 tvg-id="" tvg-name="Nasib Si Labu Labi" tvg-logo="https://cdn.cinematerial.com/p/297x/7vzjimvl/nasib-si-labu-labi-singaporean-movie-poster-md.jpg?v=1481247111" group-title="▶ VOD Pramlee",Nasib Si Labu Labi
 https://www.dropbox.com/scl/fi/0k5uwxva8mjsnktxlypmx/Nasib-Si-Labu-Labi.mp4?rlkey=wzdvoatcdcsyk4xldxr0qieej&st=m3fn6yjj&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Labu dan Labi" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Labu dan Labi
+#EXTINF:-1 tvg-id="" tvg-name="Labu dan Labi" tvg-logo="https://cdn.cinematerial.com/p/297x/q6p3zdea/labu-dan-labi-malaysian-movie-poster-md.jpg?v=1481180700" group-title="▶ VOD Pramlee",Labu dan Labi
 https://www.dropbox.com/scl/fi/ul4bakohesb9xxoeb5vbj/Labu-Dan-Labi.mp4?rlkey=hf8e7l3k62bp22ltn8cedj7b9&st=9twpimsy&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Enam Jahanam" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Enam Jahanam
 https://www.dropbox.com/scl/fi/rfas7m86zo2s0zbpgrscr/Enam.Jahanam.mp4?rlkey=vxkge6cbtss0887f2dzjwe7hc&st=wbpl8omn&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Nujum Pak Belalang" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Nujum Pak Belalang
+#EXTINF:-1 tvg-id="" tvg-name="Nujum Pak Belalang" tvg-logo="https://cdn.cinematerial.com/p/297x/vybigxdx/nujum-pak-belalang-malaysian-movie-poster-md.jpg?v=1481247223" group-title="▶ VOD Pramlee",Nujum Pak Belalang
 https://www.dropbox.com/scl/fi/5f9be4sbojpet3b8kslh1/Nujum-Pak-Belalang.mp4?rlkey=mfyszuclifipike1yqyb57f5z&st=3olf833x&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Ahmad Albab" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Ahmad Albab
+#EXTINF:-1 tvg-id="" tvg-name="Ahmad Albab" tvg-logo="https://cdn.cinematerial.com/p/297x/xgb0oi5b/ahmad-albab-malaysian-movie-poster-md.jpg?v=1456829496" group-title="▶ VOD Pramlee",Ahmad Albab
 https://www.dropbox.com/scl/fi/u9h14iruep20dl0rb34vu/NPRH22-Ahmad-Albab-1968-Malay-Versi-Warna-Subs-English.mp4?rlkey=sfleafgw8mhy2z8hejh1r6cxn&st=16xzj39a&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Madu Tiga" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Madu Tiga
+#EXTINF:-1 tvg-id="" tvg-name="Madu Tiga" tvg-logo="https://cdn.cinematerial.com/p/297x/8rxaffy3/madu-tiga-malaysian-movie-poster-md.jpg?v=1456827548" group-title="▶ VOD Pramlee",Madu Tiga
 https://www.dropbox.com/scl/fi/3kh5kr46f22tm7ys9kugz/Madu-Tiga-1964-1080p.mp4?rlkey=ayjjc9ijzo1yotrxziat1mxmb&st=snxvjnfi&dl=1
-
-#EXTINF:-1 tvg-id="" tvg-name="Hang Tuah" tvg-logo="https://media.astroawani.com/awani/media/article/2018/Mar/22/61468239029_pramlee.jpg" group-title="▶ VOD Pramlee",Hang Tuah
-https://www.dropbox.com/scl/fi/5leee2fsjwm2hphmwd5ce/Hang-Tuah-1958-720p-WEBDL-cap.mp4?rlkey=slxw70ctpw7pug98kc8wfopfj&st=zyve2um6&dl=1
