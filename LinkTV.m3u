@@ -476,6 +476,10 @@ https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=be
 ##################################SPORTS##################################
 
 
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="SUKAN RTM" group-title="Sports" tvg-logo="https://ptv2026.com/logo/sukanrtm.png",700 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
 #EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arena.png",801 Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
@@ -625,6 +629,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="golf" tvg-logo="https://ptv2026.com/logo/golf.png" group-logo="", 820 Golf
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=golf
+
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://ptv2026.com/logo/premiersports.png" group-logo="", 822 Premier Sport
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=premiersport
+
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://ptv2026.com/logo/cricket.png",832 Cricket
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -633,13 +647,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a
 
 
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" group-title="Sports" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp",833 FUBO Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://ptv2026.com/logo/mutv.png",833 MUTV
+https://ptv2026.com/mutv.mpd
+
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" group-title="Sports" tvg-logo="https://freetv.fun/media/images/channel/2022/08/21/large/20220821135427338894_28.png",834 FUBO Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
  
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" group-title="Sports" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp",834 FUBO Sports 2
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" group-title="Sports" tvg-logo="https://freetv.fun/media/images/channel/2022/08/21/large/20220821135427338894_28.png",835 FUBO Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
