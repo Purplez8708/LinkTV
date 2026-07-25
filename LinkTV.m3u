@@ -141,7 +141,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://ptv2026.com/logo/duniasenima.png",137 Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+https://ptv2026.com/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
 #EXTINF:-1 tvg-name="140 BOO" tvg-id="2636" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://ptv2026.com/logo/boo.png" group-title="MOVIES"
 https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fad51c423fade.m3u8
@@ -157,12 +160,7 @@ https://ptv2026.com/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c
 https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png",141 HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+http://40.160.24.53/HBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/hbohits.png",142 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -172,11 +170,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamily" tvg-logo="https://ptv2026.com/logo/hbofamily.png",144 HBO Family  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+http://www.kaniptv.cn/uadl.php?etoken=St1QUdMTnPbbgvoVQ9ECULdsHNTBb57VJ%2F42xqpGN7mdIz9PLndhy%2BL%2FOO8e2uXI%2B3ko2OB7maNAr0I1hOo4WNhuZgXBuUAvn%2Fr8T3CGXuX%2FuUmPwcTMKzcQZcJYRYcOssb%2BVhUmf1hwENdYFNZD6JSKdCNKAuClJEbyv8yJZkES5XL%2BWVqqKSD%2F8QmQFDht9zuAwu%2BjRx5cjSCl2PP7%2Fe8JWXGAvC96FwQESaWNfhUY5KC710CkY5wmOyCW3XN%2FfXvaWv9rEZpk7XNqrqC2ZPnGUA8bF4P9WMTONSNKQ9g%3D
 
 #EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
