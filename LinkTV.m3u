@@ -432,7 +432,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",521 DW English
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="NEWS" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-05/DW-English-300x.png",521 DW English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
