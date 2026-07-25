@@ -117,7 +117,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://ptv2026.com/logo/kplus.png",203 K-Plus
+#EXTINF:-1 group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://ptv2026.com/logo/kplus.png",203 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
@@ -144,7 +144,7 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-https://ptv2026.com/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-name="140 BOO" tvg-id="2636" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://ptv2026.com/logo/boo.png" group-title="MOVIES"
 https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fad51c423fade.m3u8
@@ -159,47 +159,17 @@ https://ptv2026.com/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png",141 HBO
-http://40.160.24.53/HBO_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/hbohits.png",142 HBO HITS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="hbofamily" tvg-logo="https://ptv2026.com/logo/hbofamily.png",144 HBO Family  
-http://www.kaniptv.cn/uadl.php?etoken=St1QUdMTnPbbgvoVQ9ECULdsHNTBb57VJ%2F42xqpGN7mdIz9PLndhy%2BL%2FOO8e2uXI%2B3ko2OB7maNAr0I1hOo4WNhuZgXBuUAvn%2Fr8T3CGXuX%2FuUmPwcTMKzcQZcJYRYcOssb%2BVhUmf1hwENdYFNZD6JSKdCNKAuClJEbyv8yJZkES5XL%2BWVqqKSD%2F8QmQFDht9zuAwu%2BjRx5cjSCl2PP7%2Fe8JWXGAvC96FwQESaWNfhUY5KC710CkY5wmOyCW3XN%2FfXvaWv9rEZpk7XNqrqC2ZPnGUA8bF4P9WMTONSNKQ9g%3D
-
-#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
-
-#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES",159 Originals
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
-
-#EXTINF:-1 tvg-id="" tvg-name="162 Uniques" tvg-logo="https://ptv2026.com/logo/uniques.png" group-title="MOVIES",162 Uniques
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=uniques
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/moviesnow.png" group-title="MOVIES",156 Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/moviesnow.png" group-title="MOVIES",356 Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moviesnow
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnx.png" group-title="MOVIES",158 MNX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnx.png" group-title="MOVIES",357 MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnxhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnplus.png" group-title="MOVIES",157 MX Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnplus.png" group-title="MOVIES",358 MX Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
@@ -210,7 +180,7 @@ https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-XTINF:-1 group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" tvg-logo="https://ptv2026.com/logo/showcase.png",413 Showcase Movies
+#EXTINF:-1 group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" tvg-logo="https://ptv2026.com/logo/showcase.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -238,6 +208,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockEnt&kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png",418 HBO
+http://40.160.24.53/HBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/hbohits.png",419 HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbofamily" tvg-logo="https://ptv2026.com/logo/hbofamily.png",450 HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/cinemax.png",451 CINEMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+
+#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES",452 Originals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
+
+#EXTINF:-1 tvg-id="" tvg-name="162 Uniques" tvg-logo="https://ptv2026.com/logo/uniques.png" group-title="MOVIES",454 Uniques
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=uniques
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="warnertv" tvg-logo="https://ptv2026.com/logo/warnertv.png",695 Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -350,6 +354,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+
 
 ##################################KIDS TV##################################
 
@@ -465,7 +471,178 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bernama
 
-###############VOD PRAMLEE########################
+##################################SPORTS##################################
+
+
+#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arena.png",801 Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arena2.png",802 Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+
+##803
+ tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arenabola.png" ch-number="803",803 Arena Bola (Live Only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/411exJpOfYU9x_jrfEMh5g-tAF1_QZ0E5JfZaMJLsYh-M=ZXAR/dash-wv/jitp-linearwm/5099/default_ott.mpd
+
+@ tvg-id="803.astro" ch-number="803" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arenabola.png",803 Arena Bola (Live Only)
+##http://217.216.110.49:8000/bola1y70
+http://217.216.110.49:8000/bola1p90
+##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola1
+##https://proxy.qeqa.my.id/stream.php?channel=arena_bola_c&user=0819
+##https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+##https://jebon.sooka2.workers.dev/live2.m3u8
+
+
+##804
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2 (Live Only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41g3B7jXUrYyduo36ygzLMGrkLuEWiXlAxPGvN_p0ah08=fUkc/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="Sports" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2 (Live Only)
+##http://217.216.110.49:8000/bola2y70
+http://217.216.110.49:8000/bola2p90
+##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola2
+
+
+##810
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" group-title="Sports" tvg-logo="https://ptv2026.com/logo/grandstand.png",810 Grandstand (Live Only)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41gUroiiClbrtbu_bKzxGlPQiuD3Er8CeaOOgF-G3SWdM=Lqaq/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://ptv2026.com/logo/grandstand.png" group-title="Sports",810 Grandstand (Live Only)
+##http://217.216.110.49:8000/grandy70
+http://217.216.110.49:8000/grandp90
+
+
+##811
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png",811 Premier League (Live Only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_ott.mpd?astro=true
+
+@#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png",811 Premier League (Live Only)
+##http://217.216.110.49:8000/epl1y70
+http://217.216.110.49:8000/epl1p90
+##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=epl1
+
+
+##812
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png",812 Premier League 2 (Live Only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_ott.mpd?astro=true
+
+@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png",812 Premier League 2 (Live Only)
+##http://217.216.110.49:8000/epl2y70
+http://217.216.110.49:8000/epl2p90
+##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=epl2
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png",813 Premier League 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="Sports" ch-number="814" tvg-logo="https://ptv2026.com/logo/football.png",814 Football (Live Only)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="Sports" ch-number="814" tvg-logo="https://ptv2026.com/logo/football.png",814 Football (Live Only)
+http://217.216.110.49:8000/footy70
+http://217.216.110.49:8000/footp90
+
+
+##815
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://ptv2026.com/logo/badminton.png",815 Badminton (Live Only)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3O2GXaY2UBOUZSR8c332kK4=12YE/dash-wv/jitp-linearwm/5170/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://ptv2026.com/logo/badminton.png",815 Badminton (Live Only)
+##http://217.216.110.49:8000/badmintony70
+http://217.216.110.49:8000/badmintonp90
+##https://proxy.qeqa.my.id/stream.php?channel=astro_badminton_b&user=0819
+https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=badminton
+
+
+
+#EXTINF:-1 tvg-id="816.astro" tvg-name="ASSP6 HD" ch-number="816" group-title="Sports" tvg-logo="https://ptv2026.com/logo/badminton2.png",816 Badminton 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://ptv2026.com/logo/sportplus.png",817 Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague4" ch-number="818" tvg-name="AstroPremierLeague4" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png", 818 Premier League 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague5" ch-number="819" tvg-name="AstroPremierLeague5" group-title="Sports" tvg-logo="https://ptv2026.com/logo/premierleague.png", 819 Premier League 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://ptv2026.com/logo/cricket.png",832 Cricket
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a
+
+
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" group-title="Sports" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp",833 FUBO Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
+ 
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" group-title="Sports" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp",834 FUBO Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+##################################VOD PRAMLEE##################################
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Pendekar Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/k4ldfu0a/pendekar-bujang-lapok-malaysian-movie-poster-md.jpg?v=1481247309" group-title="▶ VOD Pramlee",Pendekar Bujang Lapok
 https://www.dropbox.com/scl/fi/uvhycy9xs46besafb8nqp/pendekar-bujang-lapok.mp4?rlkey=qguekecblpz4e7gxasdsgq5sn&st=l368ihyq&dl=1
