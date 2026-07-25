@@ -99,7 +99,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 
-#====korea=======
+##################################KOREAN##################################
 
 #EXTINF:-1 group-title="KOREAN" tvg-id="daebak" tvg-logo="https://www.digitalads.my/wp-content/uploads/2019/06/daebak-logo.png",200 Daebak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -117,23 +117,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://ptv2026.com/logo/kplus.png", 203 K-Plus
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://ptv2026.com/logo/kplus.png",203 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="KBSW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" ,204 KBS World
+#EXTINF:-1 group-title="KOREAN" tvg-id="KBSW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",204 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#====movies========
+#EXTINF:-1 group-title="KOREAN" tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" tvg-logo="https://ptv2026.com/logo/celestialmovies.png",309 Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+
+
+##################################MOVIES##################################
 
 #EXTINF:-1 player-buffer="2" tvg-id="" ch-number="288" tvg-name="HiYah" tvg-logo="https://ptv2026.com/logo/hiyah.png" group-title="MOVIES",136 Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="140 BOO" tvg-id="2636" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://ptv2026.com/logo/boo.png" group-title="MOVIES"
-https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fad51c423fade.m3u8
 
 #EXTINF:-1 group-title="MOVIES"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://ptv2026.com/logo/duniasenima.png",137 Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -141,15 +146,18 @@ https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fa
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://ptv2026.com/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
-#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/siar.png",138 Siar 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
-https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+#EXTINF:-1 tvg-name="140 BOO" tvg-id="2636" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://ptv2026.com/logo/boo.png" group-title="MOVIES"
+https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fad51c423fade.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="degup" ch-number="120" tvg-logo="https://ptv2026.com/logo/degup.png",139 Degup
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 https://ptv2026.com/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+
+#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/siar.png",138 Siar 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://ptv2026.com/logo/hbohd.png",141 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -180,20 +188,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="rockaction" ch-number="474" tvg-logo="https://ptv2026.com/logo/rockaction.png",147 Rock Action
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockAction&kid=c64cf911-505e-42c8-aa17-869ae51206ba
-
-#EXTINF:-1 tvg-id="ROCKXSTREAM" ch-number="415" tvg-name="RockXstream" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",147 Rock Xstream
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES",159 Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
@@ -219,20 +213,42 @@ https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/axn.png",168 AXN
+#EXTINF:-1 group-title="MOVIES" tvg-id="HITSMovies" tvg-name="Hits Movies HD" tvg-logo="https://ptv2026.com/logo/hitsmovies.png",401 HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+XTINF:-1 group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" tvg-logo="https://ptv2026.com/logo/showcase.png",413 Showcase Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="414.astro" ch-number="414" tvg-name="RockAction" tvg-language="¹" tvg-logo="https://ptv2026.com/logo/rockaction.png",414 Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KIX" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/kix.png",169 KIX
+#EXTINF:-1 tvg-id="415.astro" ch-number="415" tvg-name="RockXstream" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",415 Rock Xstream
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="warnertv" tvg-logo="https://ptv2026.com/logo/warnertv.png",170 Warner TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="rockentertainment" ch-number="416" tvg-logo="https://ptv2026.com/logo/rockentertainment.png",416 Rock Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockEnt&kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="warnertv" tvg-logo="https://ptv2026.com/logo/warnertv.png",695 Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -240,25 +256,31 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="rockentertainment" ch-number="473" tvg-logo="https://ptv2026.com/logo/rockentertainment.png", 171 Rock Entertainment
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockEnt&kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
+#EXTINF:-1 tvg-id="KIX" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/kix.png",696 KIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#EXTINF:-1 tvg-id="hits" ch-number="454" tvg-name="HITS HD" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/hits.png",174 HITS
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/axn.png",701 AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hitsnow" tvg-logo="https://ptv2026.com/logo/hitsnow.png",702 HITS Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
+
+#EXTINF:-1 tvg-id="hits" ch-number="706" tvg-name="HITS HD" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/hits.png",706 HITS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="hitsnow" tvg-logo="https://ptv2026.com/logo/hitsnow.png",175 HITS Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
 
 ##################################DISCOVER##################################
