@@ -75,7 +75,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 #EXTINF:-1 tvg-id="rtm_lead" group-title="ASTRO" ch-number="141" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",141 RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="rtm_roll" group-title="ASTRO" ch-number="142"  tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg",142 RTM Roll
+#EXTINF:-1 tvg-id="rtm_roll" group-title="ASTRO" ch-number="142"  tvg-logo="https://rtm-images.glueapi.io/fit-in/180x100/fast_channel/ROLL_CHANNEL.jpg",142 RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
 #EXTINF:-1 tvg-id="rtm_borak" group-title="ASTRO" ch-number="143"  tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",143 RTM Aura
