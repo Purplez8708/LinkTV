@@ -60,10 +60,10 @@ http://192.129.226.68:19890/trams/2658/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="3770" tvg-name="116 Ceria" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_400/https://datastore.vr.ctrp.sooka.my/content/images/471f63AstroCeria_2024.png" group-title="ASTRO"
 https://stream1.freetv.fun/83abb39921346bb7bbf6214a0be6556faf081c467d5ed5f0f68ef6d168d977ad.m3u8
 
-#EXTINF:-1 tvg-id="369661" tvg-name="ASTRO Citra" tvg-country="Malaysia" tvg-language="Bahasa Melayu" ch-number="117" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",117 Citra
+#EXTINF:-1 tvg-id="369661" tvg-name="ASTRO Citra" tvg-country="Malaysia" tvg-language="Bahasa Melayu" ch-number="117" tvg-logo="https://ptv2026.com/logo/citra.png" group-title="ASTRO",117 Citra
 https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bcee19bf6f9b24.ctv
 
-#EXTINF:-1 tvg-id="Astro Oasis HD" group-title="ASTRO" ch-number="118" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",118 Oasis
+#EXTINF:-1 tvg-id="Astro Oasis HD" group-title="ASTRO" ch-number="118" tvg-logo="https://ptv2026.com/logo/oasis.png",118 Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
