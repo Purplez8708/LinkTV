@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 
-#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv1.png",101 TV1
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/145554TV1_v1.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
@@ -19,7 +19,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Okey" ch-number="108" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-title="ASTRO",108 Okey
+#EXTINF:-1 tvg-id="" tvg-name="TV Okey" ch-number="108" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/243e33Okey_v1.png" group-title="ASTRO",108 Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
@@ -51,13 +51,13 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="130.astro" group-title="ASTRO" ch-number="134" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/13b8daJomNgaji.png",134 Jom Ngaji 
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d
 
-#EXTINF:-1 tvg-id="2384" tvg-name="ASTRO RIA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" group-title="ASTRO" ch-number="114" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",114 Ria
+#EXTINF:-1 tvg-id="2384" tvg-name="ASTRO RIA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" group-title="ASTRO" ch-number="114" tvg-logo="https://ptv2026.com/logo/ria.png",114 Ria
 https://linears2-playback.astro.com.my/vsg/41CmY6xy3tuCxv01n4zGX1PZvopONjTkKffitR0s76TuU=Vm5U/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-id="3158" tvg-name="ASTRO PRIMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" group-title="ASTRO" ch-number="115" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",115 Prima
+#EXTINF:-1 tvg-id="3158" tvg-name="ASTRO PRIMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" group-title="ASTRO" ch-number="115" tvg-logo="https://ptv2026.com/logo/prima.png",115 Prima
 http://192.129.226.68:19890/trams/2658/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="3770" tvg-name="116 Ceria" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="ASTRO"
+#EXTINF:-1 tvg-id="3770" tvg-name="116 Ceria" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/471f63AstroCeria_2024.png" group-title="ASTRO"
 https://stream1.freetv.fun/83abb39921346bb7bbf6214a0be6556faf081c467d5ed5f0f68ef6d168d977ad.m3u8
 
 #EXTINF:-1 tvg-id="369661" tvg-name="ASTRO Citra" tvg-country="Malaysia" tvg-language="Bahasa Melayu" ch-number="117" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO",117 Citra
