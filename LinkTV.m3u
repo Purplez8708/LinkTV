@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 
-#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/145554TV1_v1.png",101 TV1
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv1.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="ASTRO" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/52157bTV2_v1.png", 102 TV2
+#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv2.png", 102 TV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
