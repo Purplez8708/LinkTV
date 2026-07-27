@@ -359,27 +359,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 ##################################KIDS TV##################################
 
 
-#EXTINF:-1 player-buffer="6" group-title="KIDS TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=200", 206 Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://192.129.140.23:19890/trams/2785/playlist.m3u8?token=885252
-
-#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" ,207 Moonbug
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" group-title="KIDS TV",206 Disney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B0F89221-2AF9-493C-B1FD-3169136100C2/0-16x9.png?width=200" ,208 Nickelodeon
+#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B0F89221-2AF9-493C-B1FD-3169136100C2/0-16x9.png?width=200" ,207 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
+
+#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/1846c1Blippi&Friends.png",208 Blippi   
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
 
 #EXTINF:-1 group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=200",209 Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
+#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" ,210 Moonbug
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",211 Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -388,20 +395,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?chan
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd?channel=cn
 
-#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" group-title="KIDS TV",212 Disney
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-
-#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/1846c1Blippi&Friends.png",213 Blippi   
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
-
-
+#EXTINF:-1 player-buffer="6" group-title="KIDS TV" tvg-id="555.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=200", 212 Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://192.129.140.23:19890/trams/2785/playlist.m3u8?token=885252
 
 
 ##################################SPORTS##################################
@@ -441,7 +437,7 @@ http://217.216.110.49:8000/bola1p90
 
 
 ##804
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2					(Live Only)
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2 						(Live Only)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -449,7 +445,7 @@ http://217.216.110.49:8000/bola1p90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41g3B7jXUrYyduo36ygzLMGrkLuEWiXlAxPGvN_p0ah08=fUkc/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
-@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2					 (Live Only)
+@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://ptv2026.com/logo/arenabola2.png",804 Arena Bola 2 						 (Live Only)
 ##http://217.216.110.49:8000/bola2y70
 http://217.216.110.49:8000/bola2p90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola2
@@ -661,37 +657,37 @@ https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=be
 ##################################VOD PRAMLEE##################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Pendekar Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/k4ldfu0a/pendekar-bujang-lapok-malaysian-movie-poster-md.jpg?v=1481247309" group-title="▶ VOD Pramlee",Pendekar Bujang Lapok
+#EXTINF:-1 tvg-id="" tvg-name="Pendekar Bujang Lapok" tvg-logo="https://cdn.moviefone.com/image-assets/70228/c0ernUnbI42HmnFPHQx6J9kjacL.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Pendekar Bujang Lapok
 https://www.dropbox.com/scl/fi/uvhycy9xs46besafb8nqp/pendekar-bujang-lapok.mp4?rlkey=qguekecblpz4e7gxasdsgq5sn&st=l368ihyq&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Seniman Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/qhyc9kdv/seniman-bujang-lapok-malaysian-movie-poster-md.jpg?v=1481247386" group-title="▶ VOD Pramlee",Seniman Bujang Lapok
 https://www.dropbox.com/scl/fi/ec4a9mxznbxzc3weatex3/seniman-bujang-lapok.mp4?rlkey=huurj29fx01rbbcevn14jewyf&st=yyqduegc&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Bujang Lapok" tvg-logo="https://cdn.cinematerial.com/p/297x/pcgtqgun/ali-baba-bujang-lapok-malaysian-movie-poster-md.jpg?v=1456829492" group-title="▶ VOD Pramlee",Ali Baba Bujang Lapok
+#EXTINF:-1 tvg-id="" tvg-name="Ali Baba Bujang Lapok" tvg-logo="https://cdn.moviefone.com/image-assets/70229/dYSuQvfc9RDzzvtvj3iIVditp9e.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Ali Baba Bujang Lapok
 https://www.dropbox.com/scl/fi/gregn402506whq6bzql09/ali-baba-bujang-lapok.mp4?rlkey=phoggjkvylpknzvy3bo8bz4vl&st=37rne1n3&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Keluarga 69" tvg-logo="https://cdn.cinematerial.com/p/297x/l8jckpqs/keluarga-69-singaporean-movie-poster-md.jpg?v=1481180547" group-title="▶ VOD Pramlee",Keluarga 69
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga 69" tvg-logo="https://cdn.moviefone.com/image-assets/91050/jpzzvWFj2IpKtyX4zjJqidZw1eO.jpg?d=360x540&q=80" group-title="▶ VOD Pramlee",Keluarga 69
 https://www.dropbox.com/scl/fi/vzshi2cwksty5tnjnrwxl/keluarga-69.mp4?rlkey=viseq1fxqn5qd3rldidpohljd&st=t8s3ztg1&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Tiga Abdul" tvg-logo="https://cdn.cinematerial.com/p/297x/tm6x3lz6/tiga-abdul-singaporean-movie-poster-md.jpg?v=1481180242" group-title="▶ VOD Pramlee",Tiga Abdul
+#EXTINF:-1 tvg-id="" tvg-name="Tiga Abdul" tvg-logo="https://cdn.moviefone.com/image-assets/91118/8X9YyahJBDBQ3wjTEN6HubQN6Cg.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Tiga Abdul
 https://www.dropbox.com/scl/fi/phqdec2sh4xfo2pkow3yd/Tiga-Abdul-1964-1080p.mp4?rlkey=anar0zdwwzo307zyes4s81xbm&st=ew7dcrbb&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Nasib Do Re Mi" tvg-logo="https://cdn.cinematerial.com/p/297x/ksmb2win/do-re-mi-singaporean-movie-poster-md.jpg?v=1481180603" group-title="▶ VOD Pramlee",Nasib Do Re Mi
+#EXTINF:-1 tvg-id="" tvg-name="Nasib Do Re Mi" tvg-logo="https://cdn.moviefone.com/image-assets/91109/byq9XA5beRUvI2yN9CHtVTDUk6c.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Nasib Do Re Mi
 https://www.dropbox.com/scl/fi/1y55kxrzqx8n8i0akzz0y/Nasib-Do-Re-Mi.mp4?rlkey=whib4ivqydqflbqqmckvq4ja5&st=28toyfsl&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Laksamana Do Re Mi" tvg-logo="https://cdn.cinematerial.com/p/297x/ksmb2win/do-re-mi-singaporean-movie-poster-md.jpg?v=1481180603" group-title="▶ VOD Pramlee",Laksamana Do Re Mi
+#EXTINF:-1 tvg-id="" tvg-name="Laksamana Do Re Mi" tvg-logo="https://cdn.moviefone.com/image-assets/91054/whgVqw7yqpY73JSFwQtHfgNC2EQ.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Laksamana Do Re Mi
 https://www.dropbox.com/scl/fi/bp0p7ffwy0tt2cjnpfbpo/Laksamana-Do-Re-Mi.mp4?rlkey=kk6hqnixcooq16u1p5ck6xdil&st=vdv03wpu&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Nasib Si Labu Labi" tvg-logo="https://cdn.cinematerial.com/p/297x/7vzjimvl/nasib-si-labu-labi-singaporean-movie-poster-md.jpg?v=1481247111" group-title="▶ VOD Pramlee",Nasib Si Labu Labi
+#EXTINF:-1 tvg-id="" tvg-name="Nasib Si Labu Labi" tvg-logo="https://cdn.moviefone.com/image-assets/91111/kzupjs6c7wOtqd9TAZXRz1hM5jB.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Nasib Si Labu Labi
 https://www.dropbox.com/scl/fi/0k5uwxva8mjsnktxlypmx/Nasib-Si-Labu-Labi.mp4?rlkey=wzdvoatcdcsyk4xldxr0qieej&st=m3fn6yjj&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Labu dan Labi" tvg-logo="https://cdn.cinematerial.com/p/297x/q6p3zdea/labu-dan-labi-malaysian-movie-poster-md.jpg?v=1481180700" group-title="▶ VOD Pramlee",Labu dan Labi
+#EXTINF:-1 tvg-id="" tvg-name="Labu dan Labi" tvg-logo="https://cdn.moviefone.com/image-assets/91053/nwY3aU6Iq9DIf1EEwsX0Nz3Kbpo.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Labu dan Labi
 https://www.dropbox.com/scl/fi/ul4bakohesb9xxoeb5vbj/Labu-Dan-Labi.mp4?rlkey=hf8e7l3k62bp22ltn8cedj7b9&st=9twpimsy&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Nujum Pak Belalang" tvg-logo="https://cdn.cinematerial.com/p/297x/vybigxdx/nujum-pak-belalang-malaysian-movie-poster-md.jpg?v=1481247223" group-title="▶ VOD Pramlee",Nujum Pak Belalang
+#EXTINF:-1 tvg-id="" tvg-name="Nujum Pak Belalang" tvg-logo="https://cdn.moviefone.com/image-assets/70227/rcwroUjJfTDFVMrX8DRXB6kuuKJ.jpg?d=360x540&q=30" group-title="▶ VOD Pramlee",Nujum Pak Belalang
 https://www.dropbox.com/scl/fi/5f9be4sbojpet3b8kslh1/Nujum-Pak-Belalang.mp4?rlkey=mfyszuclifipike1yqyb57f5z&st=3olf833x&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Ahmad Albab" tvg-logo="https://cdn.cinematerial.com/p/297x/xgb0oi5b/ahmad-albab-malaysian-movie-poster-md.jpg?v=1456829496" group-title="▶ VOD Pramlee",Ahmad Albab
+#EXTINF:-1 tvg-id="" tvg-name="Ahmad Albab" tvg-logo="https://cdn.moviefone.com/image-assets/70204/ehhqSBEQiS3loFGvXXest8o6gXx.jpg?d=360x540&q=80" group-title="▶ VOD Pramlee",Ahmad Albab
 https://www.dropbox.com/scl/fi/u9h14iruep20dl0rb34vu/NPRH22-Ahmad-Albab-1968-Malay-Versi-Warna-Subs-English.mp4?rlkey=sfleafgw8mhy2z8hejh1r6cxn&st=16xzj39a&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Madu Tiga" tvg-logo="https://cdn.cinematerial.com/p/297x/8rxaffy3/madu-tiga-malaysian-movie-poster-md.jpg?v=1456827548" group-title="▶ VOD Pramlee",Madu Tiga
