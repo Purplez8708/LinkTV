@@ -24,7 +24,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
-#EXTINF:-1  tvg-id="" ch-number="119" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",119 TV9
+#EXTINF:-1  tvg-id="" ch-number="119" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv9.png",119 TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -69,10 +69,10 @@ https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bce
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd 
 
-#EXTINF:-1 tvg-id="rtm_snap" group-title="ASTRO" ch-number="139" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg",139 RTM Snap
+#EXTINF:-1 tvg-id="rtm_snap" group-title="ASTRO" ch-number="139" tvg-logo="https://rtm-images.glueapi.io/180x100/fast_channel/SNAP_CHANNEL.jpg",139 RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1 tvg-id="rtm_lead" group-title="ASTRO" ch-number="141" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",141 RTM Lead
+#EXTINF:-1 tvg-id="rtm_lead" group-title="ASTRO" ch-number="141" tvg-logo="https://rtm-images.glueapi.io/180x100//fast_channel/LEAD_CHANNEL.jpg",141 RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
 #EXTINF:-1 tvg-id="rtm_roll" group-title="ASTRO" ch-number="142"  tvg-logo="https://rtm-images.glueapi.io/fit-in/180x100/fast_channel/ROLL_CHANNEL.jpg",142 RTM Roll
@@ -81,13 +81,13 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 #EXTINF:-1 tvg-id="rtm_borak" group-title="ASTRO" ch-number="143"  tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",143 RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-#EXTINF:-1 tvg-id="rtm_apetito" group-title="ASTRO" ch-number="144"  tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",144 RTM Apetito
+#EXTINF:-1 tvg-id="rtm_apetito" group-title="ASTRO" ch-number="144"  tvg-logo="https://rtm-images.glueapi.io/180x100/fast_channel/APETITO_CHANNEL.jpg",144 RTM Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1 tvg-id="rtm_fitrah" group-title="ASTRO" ch-number="145" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",145 RTM Fitrah
+#EXTINF:-1 tvg-id="rtm_fitrah" group-title="ASTRO" ch-number="145" tvg-logo="https://rtm-images.glueapi.io/180x100//fast_channel/FITRAH_CHANNEL.jpg",145 RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1 tvg-id="rtm_junior" group-title="ASTRO" ch-number="146"   tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",146 RTM Junior
+#EXTINF:-1 tvg-id="rtm_junior" group-title="ASTRO" ch-number="146"   tvg-logo="https://rtm-images.glueapi.io/180x100//fast_channel/JR_CHANNEL.jpg",146 RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title="ASTRO" ch-number="147" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest?cb=20240923085504",147 TUTOR TV
