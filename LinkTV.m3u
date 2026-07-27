@@ -24,7 +24,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
-#EXTINF:-1  tvg-id="" ch-number="119" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://icon2.cleanpng.com/20180806/vi/b8d0426a64a19e1453f757e072f1f8ff.webp",119 TV9
+#EXTINF:-1  tvg-id="" ch-number="119" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",119 TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -57,7 +57,7 @@ https://linears2-playback.astro.com.my/vsg/41CmY6xy3tuCxv01n4zGX1PZvopONjTkKffit
 #EXTINF:-1 tvg-id="3158" tvg-name="ASTRO PRIMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" group-title="ASTRO" ch-number="115" tvg-logo="https://ptv2026.com/logo/prima.png",115 Prima
 http://192.129.226.68:19890/trams/2658/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="3770" tvg-name="116 Ceria" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_200,h_auto,w_500/https://datastore.vr.ctrp.sooka.my/content/images/471f63AstroCeria_2024.png" group-title="ASTRO"
+#EXTINF:-1 tvg-id="3770" tvg-name="116 Ceria" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_300,h_auto,w_600/https://datastore.vr.ctrp.sooka.my/content/images/471f63AstroCeria_2024.png" group-title="ASTRO"
 https://stream1.freetv.fun/83abb39921346bb7bbf6214a0be6556faf081c467d5ed5f0f68ef6d168d977ad.m3u8
 
 #EXTINF:-1 tvg-id="369661" tvg-name="ASTRO Citra" tvg-country="Malaysia" tvg-language="Bahasa Melayu" ch-number="117" tvg-logo="https://ptv2026.com/logo/citra.png" group-title="ASTRO",117 Citra
