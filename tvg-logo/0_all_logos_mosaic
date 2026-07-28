@@ -1,78 +1,64 @@
 # Malaysia 🇲🇾
 
-| ![8tv] | ![astro-aec] | ![astro-aod] | ![astro-arena-2] | ![astro-arena-bola-2] | ![astro-arena-bola] |
+| ![8tv] | ![aec] | ![aod] | ![arena-2] | ![arena-bola-2] | ![arena-bola] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![astro-arena-bug] | ![astro-arena] | ![astro-aura] | ![astro-awani] | ![astro-badminton-2] | ![astro-badminton] |
-| ![astro-boo] | ![astro-box-office-movies-thangathirai] | ![astro-box-office-sport] | ![astro-ceria] | ![astro-citra] | ![astro-cricket-bug] |
-| ![astro-cricket] | ![astro-football] | ![astro-grandstand] | ![astro-hua-hee-dai] | ![astro-maya] | ![astro-oasis] |
-| ![astro-premier-league-2] | ![astro-premier-league-3] | ![astro-premier-league] | ![astro-prima] | ![astro-qj] | ![astro-quan-jia] |
-| ![astro-rania] | ![astro-ria] | ![astro-sensasi] | ![astro-showcase] | ![astro-sports-plus] | ![astro-sports-uhd] |
-| ![astro-supersport-2-bug] | ![astro-supersport-3-bug] | ![astro-supersport-4-bug] | ![astro-supersport-bug] | ![astro-thangathirai] | ![astro-tutor-tv] |
-| ![astro-vaanavil] | ![astro-vellithirai] | ![astro-vinmeen] | ![astro-warna] | ![astro-xiao-tai-yang] | ![awesome-tv] |
-| ![bein-sports-max-hz] | ![berita-rtm] | ![bernama-tv] | ![boo] | ![didik-tv-kpm] | ![drama-sangat] |
-| ![dreamworks-tv-hz] | ![dunia-sinema-asi] | ![egg-network] | ![enjoy-tv5] | ![go-shop] | ![hbo-hits] |
+| ![arena-bug] | ![arena] | ![aura] | ![awani] | ![badminton-2] | ![badminton] |
+| ![boo] | ![box-office-movies-thangathirai] | ![box-office-sport] | ![ceria] | ![citra] | ![cricket-bug] |
+| ![cricket] | ![football] | ![grandstand] | ![hua-hee-dai] | ![maya] | ![oasis] |
+| ![premier-league-2] | ![premier-league-3] | ![premier-league] | ![prima] | ![qj] | ![quan-jia] |
+| ![rania] | ![ria] | ![sensasi] | ![showcase] | ![sports-plus] | ![sports-uhd] |
+| ![supersport-2-bug] | ![supersport-3-bug] | ![supersport-4-bug] | ![supersport-bug] | ![thangathirai] | ![tutor-tv] |
+| ![vaanavil] | ![vellithirai] | ![vinmeen] | ![warna] | ![xiao-tai-yang] | ![awesome-tv] |
+| ![bein-sports-max-hz] | ![berita-rtm] | ![bernama-tv] | ![boo] | ![didik-kpm] | ![drama-sangat] |
+| ![dreamworks-hz] | ![dunia-sinema-asi] | ![egg-network] | ![enjoy-tv5] | ![go-shop] | ![hbo-hits] |
 | ![ikim] | ![inspirasi] | ![iqiyi] | ![laku-mall] | ![moonbug-kids] | ![njoi] |
 | ![ntv7] | ![rtm-asean] | ![rtm] | ![showcase-movies] | ![sukan-rtm] | ![suke-tv] |
-| ![ta-daa] | ![tv-alhijrah] | ![tv-okey] | ![tv1] | ![tv2] | ![tv3] |
+| ![ta-daa] | ![alhijrah] | ![okey] | ![tv1] | ![tv2] | ![tv3] |
 | ![tv6] | ![tv9] | ![tvs] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [8tv]:8tv.png
-[astro-aec]:astro-aec.png
-[astro-aod]:astro-aod.png
-[astro-arena-2]:astro-arena-2.png
-[astro-arena-bola-2]:astro-arena-bola-2.png
-[astro-arena-bola]:astro-arena-bola.png
-[astro-arena-bug]:screen-bug/astro-arena-bug.png
-[astro-arena]:astro-arena.png
-[astro-aura]:astro-aura.png
-[astro-awani]:astro-awani.png
-[astro-badminton-2]:astro-badminton-2.png
-[astro-badminton]:astro-badminton.png
-[astro-boo]:astro-boo.png
-[astro-box-office-movies-thangathirai]:astro-box-office-movies-thangathirai.png
-[astro-box-office-sport]:astro-box-office-sport.png
-[astro-ceria]:astro-ceria.png
-[astro-citra]:astro-citra.png
-[astro-cricket-bug]:screen-bug/astro-cricket-bug.png
-[astro-cricket]:astro-cricket.png
-[astro-football]:astro-football.png
-[astro-grandstand]:astro-grandstand.png
-[astro-hua-hee-dai]:astro-hua-hee-dai.png
-[astro-maya]:astro-maya.png
-[astro-oasis]:astro-oasis.png
-[astro-premier-league-2]:astro-premier-league-2.png
-[astro-premier-league-3]:astro-premier-league-3.png
-[astro-premier-league]:astro-premier-league.png
-[astro-prima]:astro-prima.png
-[astro-qj]:astro-qj.png
-[astro-quan-jia]:astro-quan-jia.png
-[astro-rania]:astro-rania.png
-[astro-ria]:astro-ria.png
-[astro-sensasi]:astro-sensasi.png
-[astro-showcase]:astro-showcase.png
-[astro-sports-plus]:astro-sports-plus.png
-[astro-sports-uhd]:astro-sports-uhd.png
-[astro-supersport-2-bug]:screen-bug/astro-supersport-2-bug.png
-[astro-supersport-3-bug]:screen-bug/astro-supersport-3-bug.png
-[astro-supersport-4-bug]:screen-bug/astro-supersport-4-bug.png
-[astro-supersport-bug]:screen-bug/astro-supersport-bug.png
-[astro-thangathirai]:astro-thangathirai.png
-[astro-tutor-tv]:astro-tutor-tv.png
-[astro-vaanavil]:astro-vaanavil.png
-[astro-vellithirai]:astro-vellithirai.png
-[astro-vinmeen]:astro-vinmeen.png
-[astro-warna]:astro-warna.png
-[astro-xiao-tai-yang]:astro-xiao-tai-yang.png
+[aec]:aec.png
+[aod]:aod.png
+[arena-2]:arena-2.png
+[arena-bola-2]:arena-bola-2.png
+[arena-bola]:arena-bola.png
+[arena]:arena.png
+[aura]:aura.png
+[awani]:awani.png
+[badminton-2]:badminton-2.png
+[badminton]:badminton.png
+[boo]:boo.png
+[box-office-sport]:box-office-sport.png
+[ceria]:ceria.png
+[citra]:citra.png
+[cricket]:cricket.png
+[football]:football.png
+[grandstand]:grandstand.png
+[hua-hee-dai]:hua-hee-dai.png
+[maya]:maya.png
+[oasis]:oasis.png
+[premier-league-2]:premier-league-2.png
+[premier-league-3]:premier-league-3.png
+[premier-league]:premier-league.png
+[prima]:prima.png
+[rania]:rania.png
+[ria]:ria.png
+[sensasi]:sensasi.png
+[showcase]:showcase.png
+[sports-plus]:sports-plus.png
+[sports-uhd]:sports-uhd.png
+[tutor-tv]:tutor-tv.png
+[warna]:warna.png
 [awesome-tv]:awesome-tv.png
 [bein-sports-max-hz]:bein-sports-max-hz.png
 [berita-rtm]:berita-rtm.png
 [bernama-tv]:bernama-tv.png
 [boo]:boo.png
-[didik-tv-kpm]:didik-tv-kpm.png
+[didik-kpm]:didik-kpm.png
 [drama-sangat]:drama-sangat.png
-[dreamworks-tv-hz]:dreamworks-tv-hz.png
+[dreamworks-hz]:dreamworks-hz.png
 [dunia-sinema-asi]:dunia-sinema-asi.png
 [egg-network]:egg-network.png
 [enjoy-tv5]:enjoy-tv5.png
@@ -80,7 +66,6 @@
 [hbo-hits]:hbo-hits.png
 [ikim]:ikim.png
 [inspirasi]:inspirasi.png
-[iqiyi]:iqiyi.png
 [laku-mall]:laku-mall.png
 [moonbug-kids]:moonbug-kids.png
 [njoi]:njoi.png
@@ -91,8 +76,8 @@
 [sukan-rtm]:sukan-rtm.png
 [suke-tv]:suke-tv.png
 [ta-daa]:ta-daa.png
-[tv-alhijrah]:tv-alhijrah.png
-[tv-okey]:tv-okey.png
+[alhijrah]:alhijrah.png
+[okey]:okey.png
 [tv1]:tv1.png
 [tv2]:tv2.png
 [tv3]:tv3.png
