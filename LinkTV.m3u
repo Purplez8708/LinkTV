@@ -50,11 +50,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
-#EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tvs.png",107 TVS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-https://ptv2026.com/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvs
-
 #EXTINF:-1 tvg-id="" tvg-id="sensasi" ch-number="108" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/sensasi.png",108 Sensasi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -81,9 +76,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
-
-#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/awesome.png",113 Awesome
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/ria.png" ,114 Ria
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
