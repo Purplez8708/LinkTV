@@ -418,7 +418,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 ##################################KIDS TV##################################
 
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/disney.png",206 Disney
+#EXTINF:-1 group-title="KIDS TV" tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/disney.png",206 Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -440,7 +440,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="551.unifi" tvg-name"Moonbug Kids" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/moonbug.png",210 Moonbug
+#EXTINF:-1 group-title="KIDS TV" tvg-id="551.unifi" tvg-name"Moonbug Kids" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/moonbug.png",210 Moonbug Kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
