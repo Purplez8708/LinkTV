@@ -206,21 +206,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="414.astro" ch-number="414" tvg-name="RockAction" tvg-language="¹" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/rockaction.png",414 Rock Action
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
-
-#EXTINF:-1 tvg-id="415.astro" ch-number="415" tvg-name="RockXstream" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/rockxstream.png",415 Rock Xstream
+#EXTINF:-1 tvg-id="414.astro" ch-number="414" tvg-name="RockXstream" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/rockxstream.png",414 Rock Xstream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="415.astro" ch-number="414" tvg-name="RockAction" tvg-language="¹" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/rockaction.png",415 Rock Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="rockentertainment" ch-number="416" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/rockentertain.png",416 Rock Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -234,10 +234,11 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moviesnow
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="FAMTIME" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/famtime.png" ,418 FAM Time
+#EXTINF:-1 group-title="MOVIES" tvg-id="SHOWTIME" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/showtime.png" ,418 Showtime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
+#2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/hbo.png",419 HBO
 http://40.160.24.53/HBO_HD/index.m3u8
@@ -263,21 +264,20 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="SHOWTIME" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/showtime.png" ,422 Showtime
+#EXTINF:-1 tvg-id="KIX" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/kix.png",422 KIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
-#2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Originals" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/originals.png" group-title="MOVIES",423 Originals
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
-
-#EXTINF:-1 tvg-id="" tvg-name="162 Uniques" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/uniques.png" group-title="MOVIES",424 Uniques
+#EXTINF:-1 tvg-id="" tvg-name="424 Uniques" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/uniques.png" group-title="MOVIES",424 Uniques
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=uniques
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="FAMTIME" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/famtime.png" ,424 FAM Time
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="warnertv" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/warner.png",695 Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -287,11 +287,6 @@ https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
 
-#EXTINF:-1 tvg-id="KIX" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/kix.png",696 KIX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/axn.png",701 AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -300,18 +295,23 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="702 Originals" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/originals.png" group-title="MOVIES",702 Originals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
+
 
 ##################################DISCOVER##################################
 
 
 
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="DISCOVER" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=200",550 Love Nature
+#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/lovenature.png",550 Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1  tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",552 Discovery Channel
+#EXTINF:-1  tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/discovery.png",552 Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -327,12 +327,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="DISCOVER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",554 BBC Earth
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/bbc.png",554 BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
 
-#EXTINF:-1  tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",555 History
+#EXTINF:-1  tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/history.png",555 History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -343,7 +343,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 #EXTINF:-1  tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/animalplanet.png",556 Animal Planet 
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
 
-#EXTINF:-1  tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",703 Lifetime
+#EXTINF:-1  tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/lifetime.png",703 Lifetime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -351,12 +351,12 @@ http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 group-title="DISCOVER" tvg-id="tlc" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png",707 TLC
+#EXTINF:-1 group-title="DISCOVER" tvg-id="tlc" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tlc.png",707 TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
 
-#EXTINF:-1 group-title="DISCOVER" tvg-id="afn" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Food Network
+#EXTINF:-1 group-title="DISCOVER" tvg-id="afn" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/foodchannel.png",709 Food Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -370,7 +370,7 @@ https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=af
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1  tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7EBC0E2-E56A-431D-B9CF-D1105908CAD3/0-16x9.png?width=200",715 HGTV
+#EXTINF:-1  tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/hgtv.png",715 HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -862,56 +862,3 @@ https://ptv2026.com/okayru.m3u8?id=10644211567311
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCz2CkRRMUKBQHF7-vaXZUtHcKOItDnGCc84IRzT4KPnm5xvep3Rx3cAnL&s=10" group-title="▶ Legend", A Chinese Ghost Story
 https://ptv2026.com/okayru.m3u8?id=10630544755407
-
-
-
-##################################VOD R.M##################################
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep784
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166286858&quality=s240p&product_id=2875146&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep785
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287306&quality=s240p&product_id=2878262&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep786
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166287931&quality=s240p&product_id=2880941&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep787
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166288611&quality=s240p&product_id=2916978&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep788
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166289660&quality=s240p&product_id=2939761&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep789
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166291753&quality=s240p&product_id=2945918&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep790
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166292802&quality=s240p&product_id=2950888&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep791
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166293947&quality=s240p&product_id=2968631&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep792
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166294874&quality=s240p&product_id=2986537&lang=Malay&flag_id=7&ut=u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep793
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166295783&quality=s240p&product_id=2998487&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep794
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166296654&quality=s240p&product_id=3008836&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep795
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166298284&quality=s240p&product_id=3020081&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep796
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166299237&quality=s240p&product_id=3026650&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep797
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166300091&quality=s240p&product_id=3030787&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep798
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166300695&quality=s240p&product_id=3043305&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1386670985/27d2dae9e8f50fea35f4476848e8c8431c167ad7" group-title="▶ RunningMan 2026", Ep799
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166301594&quality=s240p&product_id=3050311&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep800
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166302179&quality=s240p&product_id=3062889&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep801
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166302639&quality=s240p&product_id=3070951&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep802
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166303379&quality=s240p&product_id=3096504&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep803
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166304014&quality=s240p&product_id=3106585&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep804
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166304599&quality=s240p&product_id=3133312&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep805
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166305079&quality=s240p&product_id=3144861&lang=Malay&flag_id=7&ut=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3910309256/671975d7891f1ba71f7af5bbbeb05b89c206627d" group-title="▶ RunningMan 2026", Ep806
-https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166305520&quality=s240p&product_id=3152146&lang=Malay&flag_id=7&ut=2
