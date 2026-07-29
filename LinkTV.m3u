@@ -381,33 +381,33 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 ##################################KOREAN##################################
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="daebak" tvg-logo="https://www.digitalads.my/wp-content/uploads/2019/06/daebak-logo.png",200 Daebak
+#EXTINF:-1 group-title="KOREAN" tvg-id="daebak" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/daebak.png/",200 Daebak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tvN HD" ch-number="211" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREAN",201 tvN
+#EXTINF:-1 tvg-id="tvN HD" ch-number="211" tvg-name="tvN HD" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tvg.png/" group-title="KOREAN",201 tvN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="tvN Movies HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=200",202 tvN Movies
+#EXTINF:-1 group-title="KOREAN" tvg-id="tvN Movies HD" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tvgm.png/",202 tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B8D0D9CC-B198-469A-9AAE-87DAE8A4DDB4/0-16x9.png?width=200",203 K-Plus
+#EXTINF:-1 group-title="KOREAN" tvg-id="KPLUS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/kplus.png/",203 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="KBSW" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2ee8e4KBSW_v1.png",204 KBS World
+#EXTINF:-1 group-title="KOREAN" tvg-id="KBSW" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/kbs.png/",204 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 group-title="KOREAN" tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6C8CF795-8ABE-40AF-A6D5-C0CE552D2C39/0-16x9.png?width=200",309 Celestial Movies
+#EXTINF:-1 group-title="KOREAN" tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/celestial.png/",309 Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -418,43 +418,43 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 ##################################KIDS TV##################################
 
 
-#EXTINF:-1  tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" group-title="KIDS TV",206 Disney
+#EXTINF:-1 group-title="KIDS TV" tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/disney.png",206 Disney
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B0F89221-2AF9-493C-B1FD-3169136100C2/0-16x9.png?width=200" ,207 Nickelodeon
+#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/nick.png",207 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/1846c1Blippi&Friends.png",208 Blippi   
+#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/blippi.pngg",208 Blippi   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=200",209 Nick Junior
+#EXTINF:-1 group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/nick_jr.png",209 Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
-#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" ,210 Moonbug
+#EXTINF:-1 group-title="KIDS TV" tvg-id="551.unifi" tvg-name"Moonbug Kids" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/moonbug.png",210 Moonbug
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",211 Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS TV" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/crtnnetwork.png",211 Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd?channel=cn
 
-#EXTINF:-1 player-buffer="6" group-title="KIDS TV" tvg-id="555.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=200", 212 Dreamworks
+#EXTINF:-1 player-buffer="6" group-title="KIDS TV" tvg-id="555.unifi" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/dreamworks.png", 212 Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://192.129.140.23:19890/trams/2785/playlist.m3u8?token=885252
 
