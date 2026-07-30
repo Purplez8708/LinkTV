@@ -311,7 +311,7 @@ https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1  tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/discovery.png",552 Discovery Channel
+#EXTINF:-1  tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/logo/discovery.jpg",552 Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -425,17 +425,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/nick.png",207 Nickelodeon
+#EXTINF:-1 group-title="KIDS TV" tvg-id="616.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/logo/nick.jpg",207 Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/blippi.png",208 Blippi   
+#EXTINF:-1 group-title="KIDS TV" tvg-id="620.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/logo/blippi.jpg",208 Blippi   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
 
-#EXTINF:-1 group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/nick_jr.png",209 Nick Junior
+#EXTINF:-1 group-title="KIDS TV" tvg-id="617.astro" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/logo/nick_jr.jpg",209 Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
