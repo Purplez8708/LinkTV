@@ -5,6 +5,6 @@
     "githubusercontent.com",
     "ptv2026.com"
   ],
-  "epg_url": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+  "epg_url": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml", "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml", "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml", "https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml", "https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
   "free_playlist_url": "https://raw.githubusercontent.com/Purplez8708/LinkTV/main/LinkTV.m3u"
 }
