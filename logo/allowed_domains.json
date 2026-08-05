@@ -5,6 +5,6 @@
     "githubusercontent.com",
     "ptv2026.com"
   ],
-  "epg_url": "https://ptv2026.com/EPGPerfecttv/epgtvku.xml",
+  "epg_url": "https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/epgtvku.xml",
   "free_playlist_url": "https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/LinkTV.m3u"
 }
