@@ -5,6 +5,9 @@
     "githubusercontent.com",
     "ptv2026.com"
   ],
-  "epg_url": "https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
+  "epg_url": [
+    "https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml",
+    "https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
+  ],    
   "free_playlist_url": "https://raw.githubusercontent.com/Purplez8708/LinkTV/main/LinkTV.m3u"
 }
