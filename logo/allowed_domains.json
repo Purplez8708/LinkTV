@@ -1,3 +1,9 @@
 {
   "allow_all_domains": true,
+  "allowed_domains": [
+    "raw.githubusercontent.com",
+    "githubusercontent.com"
+  ],
+  "epg_url": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",
+  "free_playlist_url": "https://raw.githubusercontent.com/Purplez8708/LinkTV/main/LinkTV.m3u"
 }
