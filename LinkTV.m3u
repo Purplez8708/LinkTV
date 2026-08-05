@@ -866,5 +866,3 @@ https://ptv2026.com/okayru.m3u8?id=10644211567311
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCz2CkRRMUKBQHF7-vaXZUtHcKOItDnGCc84IRzT4KPnm5xvep3Rx3cAnL&s=10" group-title="▶ Legend", A Chinese Ghost Story
 https://ptv2026.com/okayru.m3u8?id=10630544755407
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440"
