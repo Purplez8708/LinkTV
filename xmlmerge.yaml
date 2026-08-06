@@ -1,5 +1,5 @@
 files:
-  - https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
-  - https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-  - https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
-  - https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
+  - https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/astro.xml.gz
+  - https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/rtmklik.xml.gz
+  - https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/sooka.xml.gz
+  - https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/unifitv.xml.gz
