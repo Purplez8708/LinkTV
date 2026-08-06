@@ -80,6 +80,9 @@
     <display-name lang="en">Astro Boo</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" />
   </channel>
+  <channel id="siar">
+    <display-name>siar</display-name>
+  </channel>
   <channel id="AstroShowtime">
     <display-name lang="en">Astro Showtime</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/604_144.png" />
@@ -25081,6 +25084,58 @@
     <category lang="en">Movie</category>
     <category lang="en">Horror / Supernatural</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JWHXQ.jpg" />
+  </programme>
+  <programme start="20260804230000 +0800" stop="20260805010000 +0800" channel="siar">
+    <title lang="en">Antara Dua Hati</title>
+    <desc lang="en">Datin Sharifah ialah seorang balu yang mempunyai dua orang anak remaja, Shah dan Ina. Shah mempunyai seorang teman wanita berbangsa Cina yang bernama Linda dan Ina pula bercinta dengan Johari. Dalam satu kemalangan, Datin Sharifah telah berkenalan dengan Jefri, seorang penyanyi kelab malam. Hubungan mereka kemudiannya menjadi semakin intim. Dalam masa yang sama, Ina pula jatuh cinta dengan Jefri.</desc>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805030000 +0800" channel="siar">
+    <title lang="en">Suara Kekasih</title>
+    <desc lang="en">Percintaan yang ditentang keluarga kerana perbezaan darjat membuatkan Ayu dan Taufiq terpaksa membawa haluan berbeza. Ayu, penyanyi di kelab malam jatuh cinta dengan Taufiq, pengurus syarikat insuran yang berasal dari keluarga kaya. Ditentang oleh ibu Taufiq, mereka merasakan restu keluarga amat penting dan terpaksa membuat keputusan penting untuk masa depan mereka.</desc>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805050000 +0800" channel="siar">
+    <title lang="en">Manis Manis Sayang</title>
+    <desc lang="en">Terkesan dengan tingkah laku Bahadom terhadapnya di khalayak ramai, Jalil membuat keputusan untuk berhenti bekerja. Namun Bahadom mempunyai rancangan lain apabila Datuk menyuruhnya untuk mencari seorang pegawai untuk dihantar ke luar negara. Kerana bencikan Jalil dan juga ingin memisahkannya dari Rosnah, Bahadom mahu menghantar Jalil ke luar negara.</desc>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805070000 +0800" channel="siar">
+    <title lang="en">Bisikan Remaja</title>
+    <desc lang="en">Ameera yang baru berpindah dari Sabah ke Kuala Lumpur bersekolah di kolej swasta, dan dipilih sebagai ketua kelas. Rakan-rakan Daniel bagaimanapun merasakan bahawa Daniel, sebagai ahli sukan kolej, lebih layak untuk jawatan itu. Ketidakpuasan hati ini memecahkan kelas kepada dua puak. Ameera semakin popular kerana kecantikan, kecerdasan dan personalitinya. Daniel membuat taruhan dengan rakan-rakannya, bahawa dia akan dapat memenangi hati Ameera dalam masa dua minggu. Apabila Ameera mengetahui tentang pertaruhan itu, dia dan Daniel menjadi musuh, walaupun telah membina perasaan bersama antara satu sama lain.</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805090000 +0800" channel="siar">
+    <title lang="en">Si Jantung Hati</title>
+    <desc lang="en">Dua adik beradik, Do dan Re, keluar menggembara untuk mencari harta pusaka kepunyaan ayah mereka yang telah lama disembunyikan. Sebelum itu, mereka perlu mencari sahabat lama ayah mereka yang mempunyai petunjuk lokasi harta itu. Tetapi sesuatu terjadi apabila musuh lama muncul kembali untuk mengambil harta pusaka itu kerana yakin bahawa itu miliknya yang telah dicuri ayah mereka bertahun-tahun dahulu.</desc>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805110000 +0800" channel="siar">
+    <title lang="en">Bayangan Cinta</title>
+    <desc lang="en">Pertemuan dua bekas kekasih, Auzy dan Akhbar selepas 18 tahun membangkitkan perasaan lama. Walau perasaan cinta masih kuat, hubungan mereka tidak dapat diteruskan kerana Akhbar sudah pun berkahwin. Suratan takdir mengatakan sebaliknya apabila Auzy kini mengajar anak kepada Akhbar, Andy.</desc>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805130000 +0800" channel="siar">
+    <title lang="en">Operasi Cegah Jenayah</title>
+    <desc lang="en">Dua orang anggota polis, Shah dan Din telah ditugaskan untuk mengawasi satu pertunjukan permata berlian yang bernilai jutaan ringgit. Pihak penganjur juga meminta mereka berdua menjaga para peragawati mereka yang sedang bercuti daripada pertunjukan itu. Dalam masa yang sama, Crystal yang menjadi pengurus agensi peragawati itu merancang satu rompakan barangan berharga yang berada dalam pengawasan Shah dan Din.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805150000 +0800" channel="siar">
+    <title lang="en">Si Luncai</title>
+    <desc lang="en">Cinta ditolak kerana pangkat dan darjat, Si Luncai, sang pengembala kambing pergi dengan harapan yang hancur. Dirinya yang lurus dipermainkan oleh Ketua Kampung - namun kejadian tersebut telah membawanya ke seorang nenek kebayan yang telah mengubah hidupnya. Si Luncai menyamar menjadi tukang tabib dan mempermainkan semula Ketua Kampung itu. Berjayakah rancangan Si Luncai untuk mendapatkan cintanya?</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805170000 +0800" channel="siar">
+    <title lang="en">Sindrom Mana Anakku</title>
+    <desc lang="en">Dr. Kamal dan Dr. Lisa bekerja di hospital yang sama. Dr. Kamal keluar mendapat panggilan kecemasan di sebuah rumah. Dibawa pesakit tersebut ke hospital kerana kemungkinan komplikasi kelahiran namun mula tertanya-tanya di manakah anaknya. Anak pesakit tersebut perlu dicari sebelum apa-apa berlaku kepadanya.</desc>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805190000 +0800" channel="siar">
+    <title lang="en">Suci Dalam Debu</title>
+    <desc lang="en">Roy, seorang anak kaya yang ingin berkawan dengan pemuzik bertemu Rina di sebuah kelab malam. Namun, Rina telah ditunangkan dengan Tengku Johan oleh bapanya, Tengku Aziz. Tengku Johan ingin mempercepatkan tarikh perkahwinan mereka kerana ingin memiliki Rina. Roy telah dicabar dan diletakkan taruhan oleh Tengku Johan jika benar dia boleh mendapatkan Rina.</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805210000 +0800" channel="siar">
+    <title lang="en">Antara Dua Hati</title>
+    <desc lang="en">Datin Sharifah ialah seorang balu yang mempunyai dua orang anak remaja, Shah dan Ina. Shah mempunyai seorang teman wanita berbangsa Cina yang bernama Linda dan Ina pula bercinta dengan Johari. Dalam satu kemalangan, Datin Sharifah telah berkenalan dengan Jefri, seorang penyanyi kelab malam. Hubungan mereka kemudiannya menjadi semakin intim. Dalam masa yang sama, Ina pula jatuh cinta dengan Jefri.</desc>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805230000 +0800" channel="siar">
+    <title lang="en">Suara Kekasih</title>
+    <desc lang="en">Percintaan yang ditentang keluarga kerana perbezaan darjat membuatkan Ayu dan Taufiq terpaksa membawa haluan berbeza. Ayu, penyanyi di kelab malam jatuh cinta dengan Taufiq, pengurus syarikat insuran yang berasal dari keluarga kaya. Ditentang oleh ibu Taufiq, mereka merasakan restu keluarga amat penting dan terpaksa membuat keputusan penting untuk masa depan mereka.</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260806010000 +0800" channel="siar">
+    <title lang="en">Manis Manis Sayang</title>
+    <desc lang="en">Terkesan dengan tingkah laku Bahadom terhadapnya di khalayak ramai, Jalil membuat keputusan untuk berhenti bekerja. Namun Bahadom mempunyai rancangan lain apabila Datuk menyuruhnya untuk mencari seorang pegawai untuk dihantar ke luar negara. Kerana bencikan Jalil dan juga ingin memisahkannya dari Rosnah, Bahadom mahu menghantar Jalil ke luar negara.</desc>
   </programme>
   <programme start="20260805163500 +0000" stop="20260805181400 +0000" channel="AstroShowtime">
     <title lang="en">Something's Brewing</title>
