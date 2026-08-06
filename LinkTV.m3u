@@ -43,7 +43,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv7.png",107 Didik TV
+#EXTINF:-1 tvg-id="NTV7" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv7.png",107 Didik TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -77,11 +77,11 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
 
-#EXTINF:-1 tvg-id="AstroRia.my" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/ria.png",114 Ria
+#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/ria.png",114 Ria
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 
-#EXTINF:-1 tvg-id="AstroPrima.my" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/prima.png",115 Prima
+#EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/prima.png",115 Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
 
@@ -123,7 +123,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 #EXTINF:-1 tvg-id="Lead" group-title="ASTRO" ch-number="141" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/lead.png",141 RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="Roll" group-title="ASTRO" ch-number="142"  tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/roll.png",142 RTM Roll
+#EXTINF:-1 tvg-id="Roll" group-title="ASTRO" ch-number="142" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/roll.png",142 RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
 #EXTINF:-1 tvg-id="Aura" group-title="ASTRO" ch-number="143"  tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/aura.png",143 RTM Aura
@@ -138,7 +138,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 #EXTINF:-1 tvg-id="Jr" group-title="ASTRO" ch-number="146"   tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/jr.png",146 RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title="ASTRO" ch-number="147" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tutor.png",147 Tutor TV
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="Astro Tutor TV SMK" group-title="ASTRO" ch-number="147" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tutor.png",147 Tutor TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -152,16 +152,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 #EXTINF:-1 tvg-id="" ch-number="288" tvg-name="HiYah" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hiyah.png",136 Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="duniasinemahd" ch-number="128" ch-number="128" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/dsinema.png",137 Dunia Sinema
+#EXTINF:-1 tvg-id="128" ch-number="128" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/dsinema.png",137 Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="2636" tvg-name="140 BOO" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/boo.png" group-title="MOVIES"
+#EXTINF:-1 tvg-id="AstroBoo" tvg-name="140 BOO" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/boo.png" group-title="MOVIES"
 https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fad51c423fade.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="degup" ch-number="120" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/degup.png",139 Degup
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/degup.png",139 Degup
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 https://ptv2026.com/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
