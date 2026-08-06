@@ -48,14 +48,14 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
-#EXTINF:-1 tvg-id="NTV7" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tv7.png",107 Didik TV
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/tv7.png",107 Didik TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
 
-#EXTINF:-1 tvg-id="sensasi" ch-number="106" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/sensasi.png",106 Sensasi
+#EXTINF:-1 tvg-id="116" ch-number="116" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/sensasi.png",106 Sensasi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,21 +63,21 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 ##https://ptv2026.com/xsensasi/xsensasi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
 
-#EXTINF:-1 tvg-id="pesonahd" ch-number="110" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/pesona.png",110 Pesona
+#EXTINF:-1 tvg-id="141" ch-number="141" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/pesona.png",110 Pesona
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
 
-#EXTINF:-1 tvg-id="Inspirasi" channel-id="111" tvg-name="Inspirasi" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/inspirasi.png",111 Inspirasi 
+#EXTINF:-1 tvg-id="118" channel-id="118" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/inspirasi.png",111 Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
 
-#EXTINF:-1 tvg-id="salamhd" group-title="ASTRO" ch-number="113" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/salam.png",112 Salam
+#EXTINF:-1 tvg-id="113" ch-number="113" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/refs/heads/main/tvg-logo/salam.png",112 Salam
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
