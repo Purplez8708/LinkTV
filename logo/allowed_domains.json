@@ -1,7 +1,0 @@
-{
-  "allow_all_domains": true,
-  "allowed_domains": [
-    "raw.githubusercontent.com",
-    "githubusercontent.com"
-  ]
-}
