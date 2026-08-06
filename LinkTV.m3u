@@ -20,23 +20,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 @#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv3.png",103 TV3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv8.png",108 8TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
 
 #EXTINF:-1 tvg-id="tv9" ch-number="109" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv9.png",109 TV9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
 #https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv9
@@ -44,8 +38,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
 #EXTINF:-1 tvg-id="NTV7" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tv7.png",107 Didik TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
@@ -66,8 +58,6 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
 
 #EXTINF:-1 tvg-id="118" channel-id="118" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/inspirasi.png",111 Inspirasi 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
@@ -139,8 +129,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="Astro Tutor TV SMK" group-title="ASTRO" ch-number="147" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tutor.png",147 Tutor TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -207,16 +195,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-id="RockXStream" ch-number="414" tvg-name="RockXstream" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/rockxstream.png",414 Rock Xstream
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
 #EXTINF:-1 tvg-id="RockAction" group-title="MOVIES" ch-number="414" tvg-name="RockAction" tvg-language="¹" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/rockaction.png",415 Rock Action
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
@@ -244,22 +228,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 http://40.160.24.53/HBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="402" tvg-name="HBO Hits" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hbohits.png",420 HBO HITS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
 #EXTINF:-1 tvg-id="403" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hbofmily.png",421 HBO Family  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
 
 #EXTINF:-1 tvg-id="405" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/cinemax.png",421 CINEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
@@ -288,8 +266,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=WarnerTV&kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/axn.png",701 AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-ATSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -312,16 +288,12 @@ https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discovery.jpg",552 Discovery Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" ch-number="553" tvg-name="Discovery Asia HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discoveryasia.jpg",553 Discovery Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -333,8 +305,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" ch-number="555" tvg-name="Crime & Investigation HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/crimeinvestigation.jpg",555 Crime & Investigation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -344,8 +314,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/lifetime.png",703 Lifetime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -363,16 +331,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?chan
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hgtv.png",714 HGTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
 #EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/history.png",715 History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -441,15 +405,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
 #EXTINF:-1 tvg-id="Moonbug" tvg-name"Moonbug Kids" group-title="KIDS TV" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/moonbug.png",210 Moonbug Kids
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="KIDS TV" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/crtnnetwork.png",211 Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd?channel=cn
@@ -485,8 +445,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 ##803
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" ch-number="803" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/arenabola.jpg",803 Arena Bola
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -503,8 +461,6 @@ http://217.216.110.49:8000/bola1p90
 
 ##804
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/arenabola2.jpg",804 Arena Bola 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -530,8 +486,6 @@ http://217.216.110.49:8000/grandp90
 
 ##811
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premier.jpg",811 Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
@@ -662,8 +616,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" ch-number="AstroAwani" tvg-name="Astro Awani HD" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/awani.jpg",501 Awani
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -684,8 +636,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 #https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="CNN" ch-number="511" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cnn.jpg",511 CNN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -698,16 +648,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
 #EXTINF:-1 tvg-id="642" tvg-name="DW English" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/dw.jpg",521 DW English
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd?token=34892mndsf3h.mpd
 
 #EXTINF:-1 tvg-id="601" ch-number="601" tvg-name="BBC News" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/bbcnews.jpg",601 BBC News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd?channel=bbcnews
@@ -762,63 +708,39 @@ https://www.dropbox.com/scl/fi/3kh5kr46f22tm7ys9kugz/Madu-Tiga-1964-1080p.mp4?rl
 ##################################VOD LEGEND##################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JhYTkzYmUtYjY1Mi00OWNjLTk4N2ItNDRkZTIyMzgyMjMyXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Shaolin Soccer
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615604185807
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3YmQ2NjctNzhiMi00ZmRlLTlhNDAtZGUxMTljNDBkZWNjXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Fight Back to School I
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615838083791
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIzNTdmODYtZDA5Ny00OWIxLWI3MjItN2JiZDZhZTQ4NTEyXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Fight Back to School II
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615844113103
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.rgstatic.com/content/movie/41918f14-8443-4e07-9499-11e00a0d1236/poster-342.jpg" group-title="▶ Legend", Fight Back to School III
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615848635087
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg4Y2I1MmItYzgxOC00M2I2LTk0MTEtODQxMzAwMTM5YWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Legend", God of Gamblers I
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615814621903
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miro.medium.com/v2/resize:fit:1000/1*t0CKG5X5ILJP64VDtvy4lQ.jpeg" group-title="▶ Legend", God of Gamblers II
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615820520143
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.miramax.com/assets/mv5bzthhzjzmmjktowvkmc00owm3ltkxmtutmgnimze0mjg3otkzxkeyxkfqcgdeqxvymzaxnjg3mjq%40._v1_sy1000_cr0%2C0%2C666%2C1000_al_.jpg" group-title="▶ Legend", Forbidden City Cop
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615621356239
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVhM2ZjMmMtOTYxYy00NjgzLWI1OTQtNzE3YjVhN2UwOWEzXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Flirting Scholar
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615828318927
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM0ODA2ZTQtMjA0MS00MjliLWE4ODItMzhlMjgzZWY2Y2JjXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Hail the Judge
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615825042127
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVhNmZiYWUtNDg2Mi00OTdlLWE2YjUtNTQyODdjZWYzYzMxXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", King of Beggars
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615610084047
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fareastfilms.com/wp-content/uploads/2015/05/Royal-Tramp.jpg" group-title="▶ Legend", Royal Tramp I
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615590816463
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM0YzJhOTUtMjZlMy00ZTBkLTljNzEtY2U0ODllYTk1OTEzXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Royal Tramp II
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615598549711
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NjYxMTExNl5BMl5BanBnXkFtZTYwNTU2NTI5._V1_.jpg" group-title="▶ Legend", Drunken Master
@@ -827,33 +749,21 @@ https://ptv2026.com/okayru.mpd?id=10615598549711
 https://ia800903.us.archive.org/2/items/996_20250626/996.ia.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU0YzhiZjMtZDE5OS00ZWNhLTkyNTMtNjc0NTk1ZjA4ODMxXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Project A I
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615434447567
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU4NzkxNGYtYmU4NS00MDVkLWIxNmItNDBmODE1OThjNjM3XkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Project A II
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10615569910479
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIdhqW0fEzYPCMr3hI3oexIuHGUtSTVqYuqEGFoA03pR-tCqI_H4ioDRCbZ2fzHNq91dcXvA" group-title="▶ Legend", Heart of the Dragon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10614812314319
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/564x/80/10/30/801030917293917bcd6f0046eee494c3.jpg" group-title="▶ Legend", Twin Dragons
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10623365221071
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyMjk5NjAxOV5BMl5BanBnXkFtZTYwMDg0NjU5._V1_.jpg" group-title="▶ Legend", My Lucky Stars
-#KODIPROP:inputstreamaddon=inputstream.adaptive	
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10618021939919
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://webservice.mymovies.dk/Posters/a1aae9ac-ebea-41d1-b57c-0668c7fc0100.jpg" group-title="▶ Legend", Winners & Sinners
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ptv2026.com/okayru.mpd?id=10617949326031
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMzY5NzUtYzIyZi00NWMxLWJjNDItY2JkM2VhNzk3NDFiXkEyXkFqcGc@._V1_.jpg" group-title="▶ Legend", Crazy Safari
