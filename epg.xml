@@ -81,7 +81,7 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" />
   </channel>
   <channel id="siar">
-    <display-name>siar</display-name>
+    <display-name lang="en">siar</display-name>
   </channel>
   <channel id="AstroShowtime">
     <display-name lang="en">Astro Showtime</display-name>
