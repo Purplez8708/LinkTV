@@ -154,7 +154,7 @@ https://stream1.freetv.fun/b8f41765e27802fa467de863087bab8f58f4bc754e848567db8fa
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 https://ptv2026.com/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
 
-#EXTINF:-1 tvg-id="siar" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/siar.png",138 Siar 
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/siar.png",138 Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
