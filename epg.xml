@@ -25068,10 +25068,7 @@
     <category lang="en">Horror / Supernatural</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KHEMA.jpg" />
   </programme>
-  <pro
-  <channel id="siar">
-    <display-name>siar</display-name>
-  </channel>gramme start="20260812124500 +0000" stop="20260812143000 +0000" channel="AstroBoo">
+  <programme start="20260812124500 +0000" stop="20260812143000 +0000" channel="AstroBoo">
     <title lang="en">Bldg. N</title>
     <desc lang="en">While location-scouting for a film project, three students find themselves in a notoriously haunted apartment complex and meet the eccentric residents. Then, things go haywire for them.</desc>
     <category lang="en">Movie</category>
