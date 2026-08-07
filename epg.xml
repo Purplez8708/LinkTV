@@ -80,9 +80,6 @@
     <display-name lang="en">Astro Boo</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" />
   </channel>
-  <channel id="siar">
-    <display-name lang="en">siar</display-name>
-  </channel>
   <channel id="AstroShowtime">
     <display-name lang="en">Astro Showtime</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/604_144.png" />
@@ -25071,7 +25068,10 @@
     <category lang="en">Horror / Supernatural</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KHEMA.jpg" />
   </programme>
-  <programme start="20260812124500 +0000" stop="20260812143000 +0000" channel="AstroBoo">
+  <pro
+  <channel id="siar">
+    <display-name>siar</display-name>
+  </channel>gramme start="20260812124500 +0000" stop="20260812143000 +0000" channel="AstroBoo">
     <title lang="en">Bldg. N</title>
     <desc lang="en">While location-scouting for a film project, three students find themselves in a notoriously haunted apartment complex and meet the eccentric residents. Then, things go haywire for them.</desc>
     <category lang="en">Movie</category>
@@ -25085,6 +25085,9 @@
     <category lang="en">Horror / Supernatural</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JWHXQ.jpg" />
   </programme>
+  <channel id="siar">
+    <display-name>siar</display-name>
+  </channel>
   <programme start="20260804230000 +0800" stop="20260805010000 +0800" channel="siar">
     <title lang="en">Antara Dua Hati</title>
     <desc lang="en">Datin Sharifah ialah seorang balu yang mempunyai dua orang anak remaja, Shah dan Ina. Shah mempunyai seorang teman wanita berbangsa Cina yang bernama Linda dan Ina pula bercinta dengan Johari. Dalam satu kemalangan, Datin Sharifah telah berkenalan dengan Jefri, seorang penyanyi kelab malam. Hubungan mereka kemudiannya menjadi semakin intim. Dalam masa yang sama, Ina pula jatuh cinta dengan Jefri.</desc>
