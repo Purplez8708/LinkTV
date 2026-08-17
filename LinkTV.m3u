@@ -61,7 +61,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
-#EXTINF:-1 tvg-id="jomngaji" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/jomngaji.png" , Jom Ngaji
+#EXTINF:-1 tvg-id="jomngaji" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/jomngaji.png", Jom Ngaji
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d&channel=jomngaji
 
@@ -76,6 +76,9 @@ https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTINF:-1 tvg-id="611" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/vip_Ceria.png", Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+
+#EXTINF:-1 tvg-id="Astrocitra" tvg-name="ASTRO Citra" ch-number="117" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/citra.png", Citra
+https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bcee19bf6f9b24.ctv
 
 #EXTINF:-1 tvg-id="106" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/oasis.png", Oasis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -103,6 +106,11 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
+
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-name="TV ALHIJRAH" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/alhijrah.png", Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-id="salamhd" ch-number="113" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/salamhd.png" Salam HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -149,11 +157,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
 #EXTINF:-1 tvg-id="Jr" ch-number="146" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/jr.png", RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
-
-#EXTINF:-1 tvg-id="114" ch-number="114" tvg-name="TV ALHIJRAH" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/alhijrah.png", Al-Hijrah
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 
 ##################################MOVIES##################################
