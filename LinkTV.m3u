@@ -13,35 +13,35 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tv3.jpg", TV3 FHD
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv3.png", TV3 FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://ptv2026.com/myunifi.mpd?username=vip_wl7q4nfc&password=R2dXY0Bn&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tv3.jpg", TV3 SD
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv3.png", TV3 SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="147" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/ntv7.png", DIDIK TV
+#EXTINF:-1 tvg-id="147" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tv7.jpg", DIDIK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
 
-#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/8tv.png", 8TV
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tv8.jpg", 8TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
 
-#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/tv9.png", TV9
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tv9.jpg", TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
