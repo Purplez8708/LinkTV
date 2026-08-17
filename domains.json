@@ -3,7 +3,7 @@
   "allowed_domains": [
     "ptv2026.com",
     "wcc.cam",
-    "rebrand.ly"
+    "sl1nk.com"
   ],
   "notification_url": "https://ptv2026.com/notifications/perfecttv_notify.json",
   "epg_url": "https://ptv2026.com/EPGPerfecttv/epgtvku.xml",
