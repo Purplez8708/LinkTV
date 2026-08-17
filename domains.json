@@ -1,1 +1,16 @@
-
+{
+  "allow_all_domains": true,
+  "allowed_domains": [
+    "ptv2026.com",
+    "wcc.cam",
+    "rebrand.ly"
+  ],
+  "notification_url": "https://ptv2026.com/notifications/perfecttv_notify.json",
+  "epg_url": "https://ptv2026.com/EPGPerfecttv/epgtvku.xml",
+  "free_playlist_url": "https://rebrand.ly/a4576a",
+  "website_url": "",
+  "telegram_url": "",
+  "subscribe_url": "",
+  "device_ping_url": "https://depanptv.com/configPerfecttv/device_ping.php",
+  "vod_details_url": "https://ptv2026.com/allvod/server/vod-admin/movie.php"
+}
