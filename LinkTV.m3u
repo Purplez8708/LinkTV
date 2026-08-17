@@ -66,6 +66,20 @@ https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTINF:-1 tvg-id="Astrocitra" tvg-name="ASTRO Citra" ch-number="117" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/citra.png",Citra
 https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bcee19bf6f9b24.ctv
 
+#EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd
+
 #EXTINF:-1 tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/okey.png", Okey
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
