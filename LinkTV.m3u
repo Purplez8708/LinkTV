@@ -62,27 +62,27 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="104" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/jomngaji.jpg", Ria
+#EXTINF:-1 tvg-id="104" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/ria.png", Ria
 ###KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 
-#EXTINF:-1 tvg-id="105" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/vip_Prima.png", Prima
+#EXTINF:-1 tvg-id="105" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/prima.png", Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
 
-#EXTINF:-1 tvg-id="611" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/vip_Ceria.png", Ceria
+#EXTINF:-1 tvg-id="611" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/ceria.png", Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
 #EXTINF:-1 tvg-id="Astrocitra" tvg-name="ASTRO Citra" ch-number="117" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/citra.png", Citra
 https://stream1.freetv.fun/a4346e525ac6121dce6d24c8c77e2dfba3aa721535c8422942bcee19bf6f9b24.ctv
 
-#EXTINF:-1 tvg-id="106" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/oasis.png", Oasis
+#EXTINF:-1 tvg-id="106" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/oasis.png", Oasis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-id="sensasi" ch-number="103" tvg-name="" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/sensasi.png", Sensasi
+#EXTINF:-1 tvg-id="" tvg-id="sensasi" ch-number="103" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/sensasi.png", Sensasi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,26 +90,26 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 ##https://ptv2026.com/xsensasi/xsensasi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
 
-#EXTINF:-1 tvg-id="" tvg-id="pesonahd" ch-number="103" tvg-name="" group-title="ASTRO" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=430", Pesona HD
+#EXTINF:-1 tvg-id="" tvg-id="pesonahd" ch-number="103" tvg-name="" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/pesona.png", Pesona HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
 
-#EXTINF:-1 tvg-id="Inspirasi" channel-id="118" tvg-name="Inspirasi" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/inspirasi.png", Inspirasi 
+#EXTINF:-1 tvg-id="Inspirasi" channel-id="118" tvg-name="Inspirasi" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/inspirasi.png", Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
 
-#EXTINF:-1 tvg-id="114" ch-number="114" tvg-name="TV ALHIJRAH" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/alhijrah.png", Al-Hijrah
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-name="TV ALHIJRAH" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/alhijrah.jpg", Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#EXTINF:-1 tvg-id="salamhd" ch-number="113" group-title="ASTRO" tvg-logo="https://ptv2026.com/logo/salamhd.png" Salam HD
+#EXTINF:-1 tvg-id="salamhd" ch-number="113" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/salam.png" Salam HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
