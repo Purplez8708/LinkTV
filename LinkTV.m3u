@@ -305,62 +305,62 @@ https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/lovenature.jpg",Love Nature
+#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/lovenature.jpg", Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discovery.jpg",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discovery.jpg", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number="553" tvg-name="Discovery Asia HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discoveryasia.jpg",Discovery Asia
+#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number="553" tvg-name="Discovery Asia HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/discoveryasia.jpg", Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="501" tvg-name="BBC Earth" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/bbc.png",BBC Earth
+#EXTINF:-1 tvg-id="501" tvg-name="BBC Earth" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/bbc.jpg", BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
 
-#EXTINF:-1 tvg-id="CrimeInvestigation" ch-number="555" tvg-name="Crime & Investigation HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/crimeinvestigation.jpg",Crime & Investigation
+#EXTINF:-1 tvg-id="CrimeInvestigation" ch-number="555" tvg-name="Crime & Investigation HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/crimeinvestigation.jpg", Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/animalplanet.jpg",Animal Planet 
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/animalplanet.jpg", Animal Planet 
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/lifetime.png",Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/lifetime.png", Lifetime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TLC" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tlc.png",TLC
+#EXTINF:-1 tvg-id="TLC" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tlc.png", TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/foodchannel.png",Food Channel
+#EXTINF:-1 tvg-id="AsianFoodNetwork" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/foodchannel.png", Food Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hgtv.png",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hgtv.png", HGTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
-#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/history.png",History
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/history.png", History
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -369,33 +369,33 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 ##################################KOREAN##################################
 
-#EXTINF:-1 tvg-id="AstroDaebak" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/daebak.png", Daebak
+#EXTINF:-1 tvg-id="AstroDaebak" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/daebak.jpg", Daebak
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tvN" ch-number="211" tvg-name="tvN HD" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tvn.png", tvN
+#EXTINF:-1 tvg-id="tvN" ch-number="211" tvg-name="tvN HD" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tvn.jpg", tvN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tvNMovies" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tvnm.png", tvN Movies
+#EXTINF:-1 tvg-id="tvNMovies" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tvnm.jpg", tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="K-Plus" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/kplus.png", K-Plus
+#EXTINF:-1 tvg-id="K-Plus" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/kplus.jpg", K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KBSWorld" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/kbs.png", KBS World
+#EXTINF:-1 tvg-id="KBSWorld" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/kbs.jpg", KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/celestial.png", Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="KOREAN" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/celestial.jpg", Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
