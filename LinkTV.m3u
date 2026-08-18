@@ -337,30 +337,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/animalplanet.jpg", Animal Planet 
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/lifetime.png", Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/lifetime.jpg", Lifetime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TLC" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/tlc.png", TLC
+#EXTINF:-1 tvg-id="TLC" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/tlc.jpg", TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/foodchannel.png", Food Channel
+#EXTINF:-1 tvg-id="AsianFoodNetwork" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/foodchannel.jpg", Food Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hgtv.png", HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/hgtv.jpg", HGTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
-#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/history.png", History
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="DISCOVER" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/history.jpg", History
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
