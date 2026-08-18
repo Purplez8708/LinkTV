@@ -467,6 +467,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID=&PAID=5057&deviceIdType=%5BdevIdType%5D&deviceId=71be0d5043f7a2ab1b1b26b5de0c05a5&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-2e476fb6-c0c3-462e-836e-0c2f1887d3dd&optin=true&hhid=126ed83851cdc77d641fbbdda3c97d0e&kvp=genre%7EHD%2CSPORTS%2CALL&daiEnabled=true
 
 
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="SUKAN RTM" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/sukanrtm.jpg",RTM Sports
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+
 ##803
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" ch-number="803" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/arenabola.jpg",Arena Bola
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -494,18 +499,6 @@ https://linears2-playback.astro.com.my/vsg/41g3B7jXUrYyduo36ygzLMGrkLuEWiXlAxPGv
 ##http://217.216.110.49:8000/bola2y70
 http://217.216.110.49:8000/bola2p90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola2
-
-
-##810
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/grandstand.jpg", Grandstand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41gUroiiClbrtbu_bKzxGlPQiuD3Er8CeaOOgF-G3SWdM=Lqaq/dash-wv/jitp-linearwm/2701/default_ott.mpd
-
-@#EXTINF:-1 tvg-id="AstroGrandstand" group-title="SPORTS" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/grandstand.jpg", Grandstand
-##http://217.216.110.49:8000/grandy70
-http://217.216.110.49:8000/grandp90
 
 
 ##811
@@ -537,12 +530,6 @@ http://217.216.110.49:8000/epl2p90
 ##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
 
 
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cricket.jpg", Cricket
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a
-
 ##814
 #EXTINF:-1 tvg-id="AstroFootball" group-title="SPORTS" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/football.jpg", Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -553,6 +540,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 @#EXTINF:-1 tvg-id="AstroFootball" group-title="SPORTS" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/football.jpg", Football
 http://217.216.110.49:8000/footy70
 http://217.216.110.49:8000/footp90
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague4" ch-number="818" tvg-name="AstroPremierLeague4" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premier.jpg",Premier League 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPremierLeague5" ch-number="819" tvg-name="AstroPremierLeague5" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premier.jpg",Premier League 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
 
 ##815
@@ -577,32 +577,35 @@ https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cricket.jpg", Cricket
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a
+
+
+##810
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/grandstand.jpg", Grandstand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41gUroiiClbrtbu_bKzxGlPQiuD3Er8CeaOOgF-G3SWdM=Lqaq/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+@#EXTINF:-1 tvg-id="AstroGrandstand" group-title="SPORTS" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/grandstand.jpg", Grandstand
+##http://217.216.110.49:8000/grandy70
+http://217.216.110.49:8000/grandp90
+
+
 #EXTINF:-1 tvg-id="AstroSportsPlus" ch-number="817" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/sports+.jpg",Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroPremierLeague4" ch-number="818" tvg-name="AstroPremierLeague4" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premier.jpg",Premier League 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroPremierLeague5" ch-number="819" tvg-name="AstroPremierLeague5" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premier.jpg",Premier League 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
-
 #EXTINF:-1 tvg-id="golf" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/golf.jpg",Golf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=golf
-
-#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="SUKAN RTM" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/sukanrtm.jpg",RTM Sports
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/premiersports.jpg",Premier Sport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
