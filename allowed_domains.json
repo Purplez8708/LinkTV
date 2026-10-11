@@ -6,7 +6,7 @@
     "ptv2026.com"
   ],
   "notification_url": "https://ptv2026.com/notifications/perfecttv_notify.json",
-  "epg_url": "https://ptv2026.com/EPGPerfecttv/epgtvku.xml",
+  "epg_url": "",
   "free_playlist_url": "https://wcc.cam/s/Ch7byd",
   "website_url": "https://ptv2026.com",
   "telegram_url": "https://t.me/originalperfecttv",
