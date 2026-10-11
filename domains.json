@@ -1,7 +1,7 @@
 {
   "allow_all_domains": true,
   "allowed_domains": [
-    "ptv2026.com",
+    "rebrand.ly",
     "wcc.cam",
     "sl1nk.com"
   ],
@@ -11,6 +11,6 @@
   "website_url": "",
   "telegram_url": "",
   "subscribe_url": "",
-  "device_ping_url": "https://depanptv.com/configPerfecttv/device_ping.php",
-  "vod_details_url": "https://ptv2026.com/allvod/server/vod-admin/movie.php"
+  "device_ping_url": "",
+  "vod_details_url": ""
 }
