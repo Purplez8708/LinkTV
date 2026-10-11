@@ -249,7 +249,10 @@ https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
 #EXTINF:-1 tvg-id="401" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hbo.png",HBO
-http://40.160.24.53/HBO_HD/index.m3u8
+https://ogietv.biz.id/Dimas01/bara01/1363.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+https://ogietv.biz.id/Dimas01/bara01/1363.m3u8
 
 #EXTINF:-1 tvg-id="402" tvg-name="HBO Hits" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/tvg-logo/hbohits.png",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
