@@ -302,6 +302,74 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd?channel=nickjr
 
 
+
+##################################NEWS####################################
+
+
+#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" tvg-name="Astro Awani HD" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/awani.jpg",Astro Awani 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
+#EXTINF:-1 tvg-id="502" ch-number="502" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/bernama.jpg",Bernama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 tvg-id="RTMK05" ch-number="" tvg-name="BERITA RTM" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/rtmnews.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="512" ch-number="512" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/bbcnews.jpg",BBC News 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CNBCAsia.sg" ch-number="516" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cnbcnews.jpg",CNBC Asia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCgnqHDUmGLRoj8pEpV7TA","kid":"w6OPE0BTF1mhype8XYDIEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+
+#EXTINF:-1 tvg-id="503" ch-number="503" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cgtn.jpg",CGTN 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nnBhYfAvuZy2ktKWVHBJTg","kid":"/GbvDuNbW6Y53A4TxfipEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
+#https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="511" ch-number="511" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/cnn.jpg",CNN 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/dw.jpg",DW English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd?token=34892mndsf3h.mpd
+
+#EXTINF:-1 tvg-id="513" ch-number="513" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/jazeera.jpg",Al Jazeera 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+
+
 ##################################SPORTS##################################
 
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="SUKAN RTM" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Purplez8708/LinkTV/main/logo/sukanrtm.jpg", RTM Sports
